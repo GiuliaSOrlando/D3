@@ -51,16 +51,16 @@ h1 {
     display: inline-block;
 }
 
-figure {
+.figure {
     width: 100%;
     margin: 0;
 }
-figure img {
+.figure img {
     border-radius: 15px;
     box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.17);
 }
 
-figcaption {
+#figcaption {
     color: #999999;
     text-align: center;
     font-family: 'Playfair' serif;
